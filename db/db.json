@@ -1,0 +1,1074 @@
+[
+    {
+        "name": "Triceps Pressdown",
+        "body_part": ["Arms"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/3-1.jpg"
+
+    },
+    {
+        "name": "Chest Press",
+        "body_part": ["Arms", "Chest","Back"],
+        "equipment": ["Barbell","Bench"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/5-1.jpg"
+
+    },
+    {
+        "name": "Supine Pelvic Tilts",
+        "body_part": ["Abs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/7-1.jpg"
+    
+    },
+    {
+        "name": "Supermans",
+        "body_part": ["Back", "Butt/Hips", "Shoulders"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/9-1.jpg"
+    
+    },
+    {
+        "name": "Bent Knee Push-up",
+        "body_part": ["Arms", "Chest", "Shoulders"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/13-1.jpg"
+    
+    },
+    {
+        "name": "Cat-Cow",
+        "body_part": ["Back","Chest"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/15-1.jpg"
+    
+    },
+    {
+        "name": "Cobra",
+        "body_part": ["Abs","Back"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/16-1.jpg"
+    
+    },
+    {
+        "name": "Ankle Flexion",
+        "body_part": ["Legs - Calves and Shins"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/23-1.jpg"
+    
+    },
+    {
+        "name": "Incline Chest Press",
+        "body_part": ["Chest", "Shoulders"],
+        "equipment": ["Bench","Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/25-1.jpg"
+    
+    },
+    {
+        "name": "Lateral Raise",
+        "body_part": ["Shoulders"],
+        "equipment": ["Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/26-1.jpg"
+    
+    },
+    {
+        "name": "Step Up",
+        "body_part": ["Butt/Hips","Legs - Thighs"],
+        "equipment": ["Dumbbells", "Raised Platform/Box"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/28-1.jpg"
+    
+    },
+    {
+        "name": "Wrist Curl - Extension",
+        "body_part": ["Arms"],
+        "equipment": ["Bench", "Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/29-1.jpg"
+    
+    },
+    {
+        "name": "Wrist-Curl - Flexion",
+        "body_part": ["Arms"],
+        "equipment": ["Bench","Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/30-1.jpg"
+    
+    },
+    {
+        "name": "Wrist Supination and Pronation",
+        "body_part": ["Arms"],
+        "equipment": ["Bench","Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/31-1.jpg"
+    
+    },
+    {
+        "name": "Hip Hinge",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["Barbell"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/33-1.jpg"
+    
+    },
+    {
+        "name": "Incline Reverse Fly",
+        "body_part": ["Back", "Shoulders"],
+        "equipment": ["Bench", "Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/34-1.jpg"
+    
+    },
+    {
+        "name": "Side Lying Hip Abduction",
+        "body_part": ["Butt/Hips"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/38-1.jpg"
+    
+    },
+    {
+        "name": "Seated Biceps Curl",
+        "body_part": ["Arms"],
+        "equipment": ["Bench", "Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/44-1.jpg"
+    
+    },
+    {
+        "name": "Seated High Back Row",
+        "body_part": ["Arms", "Back", "Shoulders"],
+        "equipment": ["Bench","Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/46-1.jpg"
+    
+    },
+    {
+        "name": "Seated Medicine Ball Trunk Rotations",
+        "body_part": ["Abs"],
+        "equipment": ["Medicine Ball"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/47-1.jpg"
+    
+    },
+    {
+        "name": "Seated Row",
+        "body_part": ["Arms", "Back"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/48-1.jpg"
+    
+    },
+    {
+        "name": "Glute Bridge",
+        "body_part": ["Abs", "Butt/Hips"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/49-1.jpg"
+    
+    },
+    {
+        "name": "Crunch",
+        "body_part": ["Abs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/52-1.jpg"
+    
+    },
+    {
+        "name": "Contralateral Limb Raise",
+        "body_part": ["Back", "Butt/Hips"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/53-1.jpg"
+    
+    },
+    {
+        "name": "Font Raise",
+        "body_part": ["Shoulders"],
+        "equipment": ["Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/54-1.jpg"
+    
+    },
+    {
+        "name": "Triceps Kickback",
+        "body_part": ["Arms"],
+        "equipment": ["Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/55-1.jpg"
+    
+    },
+    {
+        "name": "Stability Ball Sit-Ups/Crunches",
+        "body_part": ["Abs"],
+        "equipment": ["Stability Ball"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/68-1.jpg"
+    
+    },
+    {
+        "name": "Sability Ball Wall Squats",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["Stability Ball"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/69-1.jpg"
+    
+    },
+    {
+        "name": "Standing Calf Raises - Wall",
+        "body_part": ["Legs - Calves and Shins"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/73-1.jpg"
+    
+    },
+    {
+        "name": "Half-kneeling Hay Baler",
+        "body_part": ["Abs"],
+        "equipment": ["Medicine Ball"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/97-1.jpg"
+    
+    },
+    {
+        "name": "Side Plank - modified",
+        "body_part": ["Abs", "Butt/Hips"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/100-1.jpg"
+    
+    },
+    {
+        "name": "Dirty Dog",
+        "body_part": ["Abs", "Butt/Hips"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/109-1.jpg"
+    
+    },
+    {
+        "name": "Forward Stepping Cover Cones",
+        "body_part": ["Abs", "Butt/Hips"],
+        "equipment": ["Cones"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/111-1.jpg"
+    
+    },
+    {
+        "name": "Single Leg Stand",
+        "body_part": ["Abs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/112-1.jpg"
+    
+    },
+    {
+        "name": "Squat Jumps",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/116-1.jpg"
+    
+    },
+    {
+        "name": "Supine Hollowing with Lower Extremity",
+        "body_part": ["Abs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/121-1.jpg"
+    
+    },
+    {
+        "name": "Supine Rotator Cuff",
+        "body_part": ["Abs","Shoulders"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/122-1.jpg"
+    
+    },
+    {
+        "name": "Supine Shoulder Flexion",
+        "body_part": ["Shoulders"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/123-1.jpg"
+    
+    },
+    {
+        "name": "Supine Snow Angel (Wipers) Exercise",
+        "body_part": ["Abs", "Chest", "Shoulders"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/124-1.jpg"
+    
+    },
+    {
+        "name": "Prone (Lying) Hamstrings Curl",
+        "body_part": ["Legs - Thighs"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/131-1.jpg"
+    
+    },
+    {
+        "name": "Bodyweight Squat",
+        "body_part": ["Abs", "Butt/Hips", "Legs - Calves and Shins", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/135-1.jpg"
+    
+    },
+    {
+        "name": "Standing Lunge Stretch",
+        "body_part": ["Butt/Hips","Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/137-1.jpg"
+    
+    },
+    {
+        "name": "Kneeling Lat Stretch (w/bench)",
+        "body_part": ["Back"],
+        "equipment": ["Bench"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/141-1.jpg"
+    
+    },
+    {
+        "name": "Kneeling Hip-flexor Stretch",
+        "body_part": ["Butt/Hips","Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/142-1.jpg"
+    
+    },
+    {
+        "name": "Supine Hip Flexor Stretch",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/146-1.jpg"
+    
+    },
+    {
+        "name": "Supine Dead Bug",
+        "body_part": ["Abs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/147-1.jpg"
+    
+    },
+    {
+        "name": "Supine 90-90 Hip Rotator Stretch",
+        "body_part": ["Butt/Hips","Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/148-1.jpg"
+    
+    },
+    {
+        "name": "Side Lying Quadriceps Stretch",
+        "body_part": ["Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/149-1.jpg"
+    
+    },
+    {
+        "name": "Standing Dorsi-Flexion (Calf Stretch)",
+        "body_part": ["Legs - Calves and Shins"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/152-1.jpg"
+    
+    },
+    {
+        "name": "Lying Hamstrings Curl",
+        "body_part": ["Butt/Hips"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/153-1.jpg"
+    
+    },
+    {
+        "name": "Seated Leg Press",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/154-1.jpg"
+    
+    },
+    {
+        "name": "Seated Lat Pulldown",
+        "body_part": ["Back"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/158-1.jpg"
+    
+    },
+    {
+        "name": "Seated Cable Press",
+        "body_part": ["Chest"],
+        "equipment": ["Resistance Bands/Cables", "Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/165-1.jpg"
+    
+    },
+    {
+        "name": "Seated Decline Cable Press",
+        "body_part": ["Chest"],
+        "equipment": ["Resistance Bands/Cables","Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/166-1.jpg"
+    
+    },
+    {
+        "name": "Seated Incline Cable Press",
+        "body_part": ["Chest"],
+        "equipment": ["Resistance Bands/Cables","Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/167-1.jpg"
+    
+    },
+    {
+        "name": "Seated Row",
+        "body_part": ["Arms", "Back"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/168-1.jpg"
+    
+    },
+    {
+        "name": "Seated High Back Rows",
+        "body_part": ["Arms", "Back"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/169-1.jpg"
+    
+    },
+    {
+        "name": "Overhead Triceps Stretch",
+        "body_part": ["Arms"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/174-1.jpg"
+    
+    },
+    {
+        "name": "Forward Linear Jumps",
+        "body_part": ["Butt/Hips", "Full Body/Integrated", "Legs - Calves and Shins", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/177-1.jpg"
+    
+    },
+    {
+        "name": "Lateral Shuffles",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["Cones"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/181-1.jpg"
+    
+    },
+    {
+        "name": "Seated Leg Extension",
+        "body_part": ["Legs - Thighs"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/183-1.jpg"
+    
+    },
+    {
+        "name": "Seated Biceps Curl",
+        "body_part": ["Arms"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/184-1.jpg"
+    
+    },
+    {
+        "name": "Triceps Pushdowns",
+        "body_part": ["Arms"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/185-1.jpg"
+    
+    },
+    {
+        "name": "Seated Shoulder Press",
+        "body_part": ["Arms", "Shoulders"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/186-1.jpg"
+    
+    },
+    {
+        "name": "Seated Machine Close-Grip Shoulder Press",
+        "body_part": ["Arms", "Shoulders"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/187-1.jpg"
+    
+    },
+    {
+        "name": "Seated Chess Press",
+        "body_part": ["Chest"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/188-1.jpg"
+    
+    },
+    {
+        "name": "Seated Close-Grip Chest Press",
+        "body_part": ["Arms","Chest"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/189-1.jpg"
+    
+    },
+    {
+        "name": "Thomas Stretch",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/192-1.jpg"
+    
+    },
+    {
+        "name": "Kneeling TA Stretch",
+        "body_part": ["Butt/Hips","Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/195-1.jpg"
+    
+    },
+    {
+        "name": "90 Lat Stretch",
+        "body_part": ["Back"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/198-1.jpg"
+    
+    },
+    {
+        "name": "Standing Shoulder Extension",
+        "body_part": ["Arms"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/199-1.jpg"
+    
+    },
+    {
+        "name": "Lateral Neck Flexion",
+        "body_part": ["Neck"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/202-1.jpg"
+    
+    },
+    {
+        "name": "Neck Flexion and Extension",
+        "body_part": ["Neck"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/204-1.jpg"
+    
+    },
+    {
+        "name": "Shoulder Packing",
+        "body_part": ["Back","Shoulders"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/205-1.jpg"
+    
+    },
+    {
+        "name": "Seated Bent-Knee Biceps Stretch",
+        "body_part": ["Arms"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/208-1.jpg"
+    
+    },
+    {
+        "name": "Standing Chest Stretch",
+        "body_part": ["Chest"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/209-1.jpg"
+    
+    },
+    {
+        "name": "Seated Straddle Stretch",
+        "body_part": ["Back", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/210-1.jpg"
+    
+    },
+    {
+        "name": "Seated Side-Saddle Stretch",
+        "body_part": ["Abs", "Back", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/212-1.jpg"
+    
+    },
+    {
+        "name": "Seated Toe Touches",
+        "body_part": ["Legs - Calves and Shins", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/213-1.jpg"
+    
+    },
+    {
+        "name": "Seated Calf Stretch",
+        "body_part": ["Legs - Calves and Shins"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/214-1.jpg"
+    
+    },
+    {
+        "name": "Seated Butterfly Stretch",
+        "body_part": ["Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/216-1.jpg"
+    
+    },
+    {
+        "name": "Forward Hurdle Run",
+        "body_part": ["Butt/Hips", "Legs - Calves and Shins"],
+        "equipment": ["Hurdles"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/221-1.jpg"
+    
+    },
+    {
+        "name": "Squat Jump",
+        "body_part": ["Butt/Hips","Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/222-1.jpg"
+    
+    },
+    {
+        "name": "Childs Pose",
+        "body_part": ["Abs", "Back", "Butt/Hips", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/227-1.jpg"
+    
+    },
+    {
+        "name": "Warrior I",
+        "body_part": ["Butt/Hips", "Full Body/Integrated", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/228-1.jpg"
+    
+    },
+    {
+        "name": "Single Leg Push-off",
+        "body_part": ["Butt/Hips", "Legs - Calves and Shins", "Legs - Thighs"],
+        "equipment": ["Raised Platform/Box"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/230-1.jpg"
+    
+    },
+    {
+        "name": "Leg Crossover Stretch",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": [],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/231-1.jpg"
+    
+    },
+    {
+        "name": "Supine Hamstring Stretch",
+        "body_part": ["Legs - Calves and Shins", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/235-1.jpg"
+    
+    },
+    {
+        "name": "Supine Reverse Marches",
+        "body_part": ["Abs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/238-1.jpg"
+    
+    },
+    {
+        "name": "Upward Facing Dog",
+        "body_part": ["Abs", "Back"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/244-1.jpg"
+    
+    },
+    {
+        "name": "V Sit Partner Rotations",
+        "body_part": ["Abs"],
+        "equipment": ["Medicine Ball"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/263-1.jpg"
+    
+    },
+    {
+        "name": "Partner Assisted Bodyweight Squats",
+        "body_part": ["Abs","Butt/Hips","Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/265-1.jpg"
+    
+    },
+    {
+        "name": "Partner Tricep Extension",
+        "body_part": ["Abs","Abs","Butt/Hips"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/269-1.jpg"
+    
+    },
+    {
+        "name": "Quadruped Bent-knee Hip Extentions",
+        "body_part": ["Abs","Butt/Hips"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/270-1.jpg"
+    
+    },
+    {
+        "name": "Modified Hurdler's Stretch",
+        "body_part": ["Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/273-1.jpg"
+    
+    },
+    {
+        "name": "Walking Abduction",
+        "body_part": ["Butt/Hips"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/290-1.jpg"
+    
+    },
+    {
+        "name": "Seated Crunch",
+        "body_part": ["Abs"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/291-1.jpg"
+    
+    },
+    {
+        "name": "Tricep Extension",
+        "body_part": ["Arms"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/292-1.jpg"
+    
+    },
+    {
+        "name": "Glute Press",
+        "body_part": ["Butt/Hips"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/293-1.jpg"
+    
+    },
+    {
+        "name": "Calf Raise",
+        "body_part": ["Legs - Calves and Shins"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/294-1.jpg"
+    
+    },
+    {
+        "name": "Lateral Shoulder Raise",
+        "body_part": ["Shoulders"],
+        "equipment": ["Weight Machines / Selectorized"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/295-1.jpg"
+    
+    },
+    {
+        "name": "Kneeling ABC's",
+        "body_part": ["Abs"],
+        "equipment": ["Stability Ball"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/299-1.jpg"
+    
+    },
+    {
+        "name": "Decline Plank",
+        "body_part": ["Abs"],
+        "equipment": ["BOSU Trainer"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/304-1.jpg"
+    
+    },
+    {
+        "name": "Standing Bicep Curl",
+        "body_part": ["Arms"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/322-1.jpg"
+    
+    },
+    {
+        "name": "Standing Crunch",
+        "body_part": ["Abs"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/331-1.jpg"
+    
+    },
+    {
+        "name": "Tricep Pressdown",
+        "body_part": ["Arms"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/333-1.jpg"
+    
+    },
+    {
+        "name": "Anti-rotation Reverse Lunge",
+        "body_part": ["Full Body/Integrated"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/348-1.jpg"
+    
+    },
+    {
+        "name": "Rotator Cuff Internal Rotation",
+        "body_part": ["Shoulders"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/351-1.jpg"
+    
+    },
+    {
+        "name": "Rotator Cuff External Rotation",
+        "body_part": ["Shoulders"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/352-1.jpg"
+    
+    },
+    {
+        "name": "Single-arm Lateral Raise",
+        "body_part": ["Shoulders"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/354-1.jpg"
+    
+    },
+    {
+        "name": "V-raise",
+        "body_part": ["Shoulders"],
+        "equipment": ["Dumbbells"],
+        "difficulty": "Beginner",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/370-1.jpg"
+    
+    },
+    {
+        "name": "Forward Lunge",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["Barbell"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/8-1.jpg"
+    
+    },
+    {
+        "name": "Hammer Curl",
+        "body_part": ["Arms"],
+        "equipment": ["Dumbbells"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/10-1.jpg"
+    
+    },
+    {
+        "name": "Bird-dog",
+        "body_part": ["Abs", "Butt/Hips", "Back"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/14-1.jpg"
+    
+    },
+    {
+        "name": "Chest Press",
+        "body_part": ["Arms","Chest","Shoulders"],
+        "equipment": ["Bench","Dumbbells"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/19-1.jpg"
+    
+    },
+    {
+        "name": "Lying Chest Fly",
+        "body_part": ["Chest", "Shoulders"],
+        "equipment": ["Bench","Dumbbells"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/21-1.jpg"
+    
+    },
+    {
+        "name": "Front Squat",
+        "body_part": ["Back", "Butt/Hips", "Legs - Thighs"],
+        "equipment": ["Dumbbells"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/22-1.jpg"
+    
+    },
+    {
+        "name": "Kneeling Lat Pulldown",
+        "body_part": ["Back"],
+        "equipment": ["Resistance Bands/Cables"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/35-1.jpg"
+    
+    },
+    {
+        "name": "Lying Barbell Triceps Extensions",
+        "body_part": ["Arms"],
+        "equipment": ["Barbell","Bench"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/36-1.jpg"
+    
+    },
+    {
+        "name": "Lying Pullovers",
+        "body_part": ["Chest"],
+        "equipment": ["Bench", "Dumbbells"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/37-1.jpg"
+    
+    },
+    {
+        "name": "Push-up",
+        "body_part": ["Arms", "Chest", "Shoulders"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/41-1.jpg"
+    
+    },
+    {
+        "name": "Seated Shoulder Press",
+        "body_part": ["Arms", "Shoulders"],
+        "equipment": ["Barbell", "Bench"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/43-1.jpg"
+    
+    },
+    {
+        "name": "Side Lunge",
+        "body_part": ["Butt/Hips", "Legs - Thighs"],
+        "equipment": ["No Equipment"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/50-1.jpg"
+    
+    },
+    {
+        "name": "Calf Raises",
+        "body_part": ["Legs - Calves and Shins"],
+        "equipment": ["Barbell"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/51-1.jpg"
+    
+    },
+    {
+        "name": "Stability Ball Hamstring Curl",
+        "body_part": ["Butt/Hips","Legs - Thighs"],
+        "equipment": ["Stability Ball"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/59-1.jpg"
+    
+    },
+    {
+        "name": "Stability Ball Prone Walkout",
+        "body_part": ["Abs", "Back"],
+        "equipment": ["Stability Ball"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/62-1.jpg"
+    
+    },
+    {
+        "name": "Stability Ball Push-Up",
+        "body_part": ["Chest", "Shoulders"],
+        "equipment": ["Stability Ball"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/63-1.jpg"
+    
+    },
+    {
+        "name": "Glute Bridge",
+        "body_part": ["Abs", "Butt/Hips", "Legs - Thighs"],
+        "equipment": ["Stability Ball"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/66-1.jpg"
+    
+    },
+    {
+        "name": "Stability Ball Shoulder Stabilization",
+        "body_part": ["Back", "Shoulders"],
+        "equipment": ["Stability Ball"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/67-1.jpg"
+    
+    },
+    {
+        "name": "Bicep Curl",
+        "body_part": ["Arms"],
+        "equipment": ["Barbell"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/70-1.jpg"
+    
+    },
+    {
+        "name": "Shrug",
+        "body_part": ["Back"],
+        "equipment": ["Barbell"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/72-1.jpg"
+    
+    },
+    {
+        "name": "Triceps Extension",
+        "body_part": ["Arms"],
+        "equipment": ["Dumbbells"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/74-1.jpg"
+    
+    },
+    {
+        "name": "Standing Shrug",
+        "body_part": ["Back"],
+        "equipment": ["Dumbbells"],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/75-1.jpg"
+    
+    },
+    {
+        "name": "",
+        "body_part": [],
+        "equipment": [],
+        "difficulty": "Intermediate",
+        "image": "https://acewebcontent.azureedge.net/exercise-library/large/-1.jpg"
+    
+    }
+]
