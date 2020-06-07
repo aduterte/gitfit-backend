@@ -9,6 +9,29 @@ class UsersController < ApplicationController
         render json: user
     end
 
+    def login 
+        user = User.find_by(email: params[:email])
+        
+        if user && user.authenticate(params[:password])
+            payload = {user_id: user.id}
+            token = encode(payload)
+            
+            render :json => {user: user, token: token}
+        else 
+            render json: {error: "User not found"}
+        end
+    end
+
+    def token_authenticate
+    
+    token = request.headers["Authenticate"]
+    # byebug
+    user = User.find(decode(token)["user_id"])
+   
+    render json: user
+    # render :json => {user: user.as_json(include: [:movies] ,except: [:created_at, :updated_at])}
+    end
+
     private
     
     def user_params
@@ -45,23 +68,5 @@ end
 #     render json: user
 # end
 
-# def login 
-#     user = User.find_by(email: params[:email])
-    
-#     if user && user.authenticate(params[:password])
-#         payload = {user_id: user.id}
-#         token = encode(payload)
-        
-#         render :json => {user: user.as_json(include: [:movies], except: [:created_at, :updated_at]), token: token}
-#     else 
-#         render json: {error_message: "User not found"}
-#     end
-# end
 
-# def token_authenticate
-    
-#     token = request.headers["Authenticate"]
-#     user = User.find(decode(token)["user_id"])
-#     render json: user.as_json(include: [:movies], except: [:created_at, :updated_at])
-#     # render :json => {user: user.as_json(include: [:movies] ,except: [:created_at, :updated_at])}
-# end
+
