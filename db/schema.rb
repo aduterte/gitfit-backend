@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_06_05_171923) do
+ActiveRecord::Schema.define(version: 2020_06_07_035153) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -31,6 +31,16 @@ ActiveRecord::Schema.define(version: 2020_06_05_171923) do
   create_table "lists", force: :cascade do |t|
     t.integer "routine_id"
     t.integer "workout_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "posts", force: :cascade do |t|
+    t.string "title"
+    t.string "content"
+    t.string "picture"
+    t.integer "user_id"
+    t.integer "routine_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -58,7 +68,7 @@ ActiveRecord::Schema.define(version: 2020_06_05_171923) do
   end
 
   create_table "workouts", force: :cascade do |t|
-    t.integer "user_id"
+    t.integer "routine_id"
     t.integer "exercise_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false

@@ -54,13 +54,13 @@ u = User.create(
 
 
 
-r = Routine.create(user: u)
+# r = Routine.create(user: u)
 
-w = Workout.create(user: u, exercise: Exercise.all.sample)
+# w = Workout.create(user: u, exercise: Exercise.all.sample)
 
-w2 = Workout.create(user: u, exercise: Exercise.all.sample)
-List.create(routine: r, workout: w)
-List.create(routine: r, workout: w2)
+# w2 = Workout.create(user: u, exercise: Exercise.all.sample)
+# List.create(routine: r, workout: w)
+# List.create(routine: r, workout: w2)
 
 # i = 1
 # while i <= 400

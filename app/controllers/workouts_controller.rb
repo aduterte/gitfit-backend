@@ -9,7 +9,7 @@ class WorkoutsController < ApplicationController
     end
 
     def create
-        workout = Workout.create(name: params['name'], user_id: params['user_id'].to_i, exercise_id: params['exercise_id'].to_i, sets: params['sets'], type_name: params['type_name'])
+        workout = Workout.create(name: params['name'], routine_id: params['routine_id'].to_i, exercise_id: params['exercise_id'].to_i, sets: params['sets'], type_name: params['type_name'])
         # byebug
         render json: workout
         

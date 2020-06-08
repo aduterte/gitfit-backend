@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :posts
   resources :lists
   resources :workouts
   resources :exercises
