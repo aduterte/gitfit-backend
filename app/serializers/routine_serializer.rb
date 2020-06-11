@@ -5,7 +5,7 @@ class RoutineSerializer < ActiveModel::Serializer
     self.object.workouts.map do |workout|
       {
       name: workout.name,
-      exercise_id: workout.exercise_id,
+      exercise: workout.exercise,
       sets: workout.sets,
       type_name: workout.type_name
     }

@@ -6,4 +6,8 @@ class RoutinesController < ApplicationController
         # byebug
         render json: routine
     end
+
+    def destroy
+        Routine.destroy(params[:id])
+    end
 end
