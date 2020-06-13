@@ -13,7 +13,7 @@ class UsersController < ApplicationController
     def update
         user = User.find_by(id: params[:id])
         user.update(user_params)
-        byebug
+        # byebug
         render json: user
     end
 
@@ -56,7 +56,7 @@ class UsersController < ApplicationController
     private
     
     def user_params
-        params.require(:user).permit(:name, :email, :password, :password_confirmation, :avatar, :zipcode, :age, :weight, :gender, :height, :trainer, :admin)
+        params.require(:user).permit(:name, :email, :password, :password_confirmation, :goal_weight, :avatar, :zipcode, :age, :weight, :gender, :height, :trainer, :admin)
     end
 end
 
