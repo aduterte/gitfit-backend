@@ -1,6 +1,7 @@
 class PostSerializer < ActiveModel::Serializer
-  attributes :id, :content, :picture, :user, :created_at, :routine, :likes
+  attributes :id, :content, :picture, :user, :created_at, :routine, :likes, :comments
   has_many :likes
+  has_many :comments
   # def routine 
   #   ActiveModel::SerializableResource.new(object.routine,  each_serializer: RoutineSerializer)
   # end
@@ -25,6 +26,10 @@ class PostSerializer < ActiveModel::Serializer
     user: {id: like.user.id, avatar: like.user.avatar}
     }
   }
+  end
+
+  def comment 
+    CommentSerializer.new(self.object.comment)
   end
   
 end

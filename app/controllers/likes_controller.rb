@@ -4,6 +4,10 @@ class LikesController < ApplicationController
         render json: like
     end
 
+    def delete 
+        Like.find_by(likeParams).destroy
+        
+    end
     private
 
     def likeParams
