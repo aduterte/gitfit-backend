@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :likes
+  resources :friends
   resources :weights
   resources :posts
   resources :lists
@@ -11,4 +13,6 @@ Rails.application.routes.draw do
   post "/login", to: "users#login"
 
   get "/login", to: "users#token_authenticate"
+  post "/unfollow", to: "friends#delete"
+  get "/test/:id", to: "users#test_login"
 end

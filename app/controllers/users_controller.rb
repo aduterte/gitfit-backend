@@ -6,7 +6,7 @@ class UsersController < ApplicationController
     end
 
     def show
-        user = User.find_by(id: params[:id])
+        user = User.find(params[:id])
         render json: user
     end
 
@@ -36,8 +36,8 @@ class UsersController < ApplicationController
         if user && user.authenticate(params[:password])
             payload = {user_id: user.id}
             token = encode(payload)
-            
-            render :json => {user: user.as_json(:include => {:routines => {:include => :workouts}}), token: token}
+            render :json => {user: UserSerializer.new(user), token: token}
+            # render :json => {user: user.as_json(include: {routines: {:include => :workouts}}), token: token}
         else 
             render json: {error: "User not found"}
         end
@@ -53,6 +53,16 @@ class UsersController < ApplicationController
     # render :json => {user: user.as_json(include: [:movies] ,except: [:created_at, :updated_at])}
     end
 
+    def test_login
+        user = User.find(params[:id])
+        token = "token"
+        render json: {
+            user: UserSerializer.new(user),
+            token: token
+        }
+        
+    end
+
     private
     
     def user_params
@@ -60,34 +70,22 @@ class UsersController < ApplicationController
     end
 end
 
-# def show
-
-#     user = User.find(params[:id])
-#     if user 
-#         render json: user.as_json(include: [:movies], except: [:created_at, :updated_at])
-#     else
-#         render json: {error_message:  'User not found'}
+# def followed
+#     self.object.followed.map do |follow|
+#       # byebug
+#       {id: follow.follow.id,
+#       name: follow.follow.name,
+#       avatar: follow.follow.avatar,
+#       zipcode: follow.follow.zipcode,
+#       posts: follow.follow.posts.map{|post|
+#         {content: post.content,
+#         user:  
+#           {id: post.user.id,
+#           name: post.user.name,
+#           avatar: post.user.avatar},
+#         routine: post.routine,
+#         created_at: post.created_at}} 
+#       }
 #     end
-# end
-
-# def create
-#     # byebug
-#     user = User.create(name: params[:name], email: params[:email], password: params[:password], password_confirmation: params[:password_confirmation])
-#     if user.valid?
-#         user.save
-#         payload = {user_id: user.id}
-#         token = encode(payload)
-        
-#         render :json => {user: user.as_json(include: [:movies], except: [:created_at, :updated_at]), token: token}
-#     else
-#         render json: user.errors.full_messages
-#     end
-# end
-
-# def update
-#     user = User.find(params[:id])
-#     render json: user
-# end
-
 
 
