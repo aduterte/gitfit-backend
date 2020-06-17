@@ -28,8 +28,19 @@ class PostSerializer < ActiveModel::Serializer
   }
   end
 
-  def comment 
-    CommentSerializer.new(self.object.comment)
+  def comments
+    self.object.comments.map{|comment|
+      {id: comment.id,
+      post_id: comment.post_id,
+      content: comment.content,
+      created_at: comment.created_at,
+      user: {avatar: comment.user.avatar, name: comment.user.name, id: comment.user.id}
+      }
+      
+    }
+    # self.object.comments.map{|comment|
+    #   CommentSerializer.new(comment)
+    #   }
   end
   
 end

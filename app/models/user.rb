@@ -8,5 +8,8 @@ class User < ApplicationRecord
     :foreign_key => 'follower_id'
     has_many :followers, :class_name => 'Friend', 
     :foreign_key => 'follow_id'
+    has_many :comments
+    has_many :unlocks
+    has_many :achievements, through: :unlocks
     
 end

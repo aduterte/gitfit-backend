@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :achievements
+  resources :unlocks
   resources :comments
   resources :likes
   resources :friends

@@ -11,7 +11,7 @@ class RoutinesController < ApplicationController
         #         exercise_id: exe['exercise_id']
         #         sets: exe
         #     )
-        # end
+    # end
         render json: routine
     end
 

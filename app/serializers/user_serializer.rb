@@ -1,10 +1,12 @@
 class UserSerializer < ActiveModel::Serializer
-  attributes :id, :name, :email, :goal_weight, :avatar, :zipcode, :age, :gender, :height, :trainer, :admin
+  attributes :id, :name, :email, :posts, :achievements, :goal_weight, :avatar, :zipcode, :age, :gender, :height, :trainer, :admin
   has_many :routines
   has_many :posts
   has_many :weights
   has_many :followed
   has_many :followers
+  has_many :achievements
+
  
   def weights 
     self.object.weights.order("created_at ASC").map do |weight|
@@ -33,9 +35,9 @@ class UserSerializer < ActiveModel::Serializer
     end
   end
 
-  # def posts 
-  #   PostSerializer.new(self.object.posts)
-  # end
+  def post
+    PostSerializer.new(self.object.post)
+  end
 
 end
 
