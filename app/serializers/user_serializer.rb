@@ -35,6 +35,15 @@ class UserSerializer < ActiveModel::Serializer
     end
   end
 
+  def followers 
+    self.object.followers.map do |follower|
+      # byebug
+      {id: follower.follower.id,
+      avatar: follower.follower.avatar,
+      name: follower.follower.name}
+    end
+  end
+
   def post
     PostSerializer.new(self.object.post)
   end

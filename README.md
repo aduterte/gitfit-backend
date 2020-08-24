@@ -1,24 +1,32 @@
-# README
+## Git Fit
+A social media platform for fitness enthusiasts where users can create and log workouts, track their weight, and engage with other users.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+---
 
-Things you may want to cover:
+### This Repository
+This  repository is for the back end of Git Fit
 
-* Ruby version
+The front end repository can be found [Here](https://github.com/aduterte/gitfit-frontend)
 
-* System dependencies
+---
 
-* Configuration
+![Site Image](https://alessandro-duterte.netlify.app/images/git-fit1.png)
 
-* Database creation
+***
 
-* Database initialization
+### Tech Used
+Ruby
+Ruby on Rails
+BCrypt
+React
+JSON Web Token
+ChartJS
+Recoil
+Nokogiri
+Javascript
 
-* How to run the test suite
+---
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alessandro-duterte/)
