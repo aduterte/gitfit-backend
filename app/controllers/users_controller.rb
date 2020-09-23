@@ -24,7 +24,8 @@ class UsersController < ApplicationController
             payload = {user_id: user.id}
             token = encode(payload)
             # byebug
-            render :json => {user: user, token: token}
+            # render :json => {user: user, token: token}
+            render :json => {user: UserSerializer.new(user), token: token}
         else
             render json: user.errors.full_messages
         end
@@ -34,6 +35,7 @@ class UsersController < ApplicationController
         user = User.find_by(email: params[:email])
         
         if user && user.authenticate(params[:password])
+            # byebug
             payload = {user_id: user.id}
             token = encode(payload)
             render :json => {user: UserSerializer.new(user), token: token}

@@ -4,13 +4,13 @@ A social media platform for fitness enthusiasts where users can create and log w
 ---
 
 ### This Repository
-This  repository is for the back end of Git Fit
+This  repository is for the front end of Git Fit
 
-The front end repository can be found [Here](https://github.com/aduterte/gitfit-frontend)
+The back end repository can be found [Here](https://github.com/aduterte/gitfit-backend)
 
 ---
 
-![Site Image](https://alessandro-duterte.netlify.app/images/git-fit1.png)
+![Site Image](https://alessandro-duterte.netlify.app/images/git-fit2.png)
 
 ***
 
